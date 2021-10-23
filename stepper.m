@@ -57,7 +57,6 @@ pause(0.0002);
 end
 
 
-% --- Executes on button press in anticlockwise.
 function anticlockwise_Callback(hObject, eventdata, handles)
 
 
