@@ -1,1 +1,1 @@
-# MAtlab Projects
+# Matlab Projects
