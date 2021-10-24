@@ -5,5 +5,5 @@ A Stepper Motor or a step motor is a brushless, synchronous motor which divides 
 
 Here I programmed the stepper motor in Two Phase-on stepping Full Step Mode, then built a gui to control the stepper motor. 
 
-The GUI file:
-The code:
+The GUI file: stepper.fig
+The code file: stepper.m
